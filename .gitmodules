@@ -1,0 +1,3 @@
+[submodule "resources/codigo"]
+	path = resources/codigo
+	url = https://github.com/jgolden5/codigo.git
